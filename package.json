@@ -1,6 +1,6 @@
 {
     "name" : "com.yuzetoolkit.framework.modulemanager",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName" : "YuzeModuleManager",
     "description" : "一个模块管理器",
     "unity": "2019.1",
